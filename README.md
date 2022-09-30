@@ -7,6 +7,3 @@
 </a>
 <br>
 <br>
-
-- 🔭 I’m currently working on Coremaker
-- 🤔 I’m looking for help with DevOps Consulting
